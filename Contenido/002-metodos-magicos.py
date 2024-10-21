@@ -1,3 +1,5 @@
+#GUIA RÁPIDA DE MÉTODOS MÁGICOS EN PYTHON
+#Docente: Victor Saldivia Vera - Institución: Universidad de Los Lagos
 class Triangulo:
     # Constructor de Clase
     def __init__(self, l1, l2, l3):
