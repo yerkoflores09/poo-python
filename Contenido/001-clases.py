@@ -1,4 +1,5 @@
-#Guia de POO
+#GUIA RÁPIDA DE CLASES EN PYTHON
+#Docente: Victor Saldivia Vera - Institución: Universidad de Los Lagos
 
 class Persona():
     
