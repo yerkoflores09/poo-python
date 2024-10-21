@@ -1,3 +1,6 @@
+#GUIA RÁPIDA DE ENCAPSULACIÓN EN PYTHON
+#Docente: Victor Saldivia Vera - Institución: Universidad de Los Lagos
+ 
 class CuentaBancaria:
     def __init__(self, titular, saldo):
         # Atributo público
