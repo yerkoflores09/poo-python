@@ -47,6 +47,9 @@ class Doctor:
 
 # Instancia
 doctor1 = Doctor("Dr. Yoel Cea", "Cardiología", 5000000)
+print(doctor1.get_nombre())  
+doctor1.set_nombre("Dr. Ana López")
+print(doctor1.get_nombre()) 
 
 # Mostrar información inicial
 doctor1.mostrar_info()
